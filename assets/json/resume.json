@@ -7,13 +7,7 @@
     "phone": "",
     "url": "https://cbuelt.github.io/",
     "summary": "",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+  },
   "work": [
     {
       "name": "Ludwigs-Maximilians-Universität",
@@ -54,6 +48,14 @@
       "studyType": "MSc.",
       "startDate": "2021",
       "endDate": "2023",
+    },
+    {
+      "institution": "ITMO University",
+      "location": "St. Petersburg, Russia",
+      "area": "Big data and Machine Learning",
+      "studyType": "Exchange semester",
+      "startDate": "2021",
+      "endDate": "2022",
     },
     {
       "institution": "Karlsruhe Institute of Technology",
