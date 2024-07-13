@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "url": "https://cbuelt.github.io/",
-    "summary": "",
+    "summary": ""
   },
   "work": [
     {
@@ -63,7 +63,7 @@
       "area": "Economathematics",
       "studyType": "MSc.",
       "startDate": "2021",
-      "endDate": "2023",
+      "endDate": "2023"
     },
     {
       "institution": "Karlsruhe Institute of Technology",
@@ -71,7 +71,7 @@
       "area": "Sustainable Development",
       "studyType": "Supplementary studies",
       "startDate": "2021",
-      "endDate": "2023",
+      "endDate": "2023"
     },
     {
       "institution": "ITMO University",
@@ -79,7 +79,7 @@
       "area": "Big data and Machine Learning",
       "studyType": "Exchange semester",
       "startDate": "2021",
-      "endDate": "2022",
+      "endDate": "2022"
     },
     {
       "institution": "Karlsruhe Institute of Technology",
@@ -87,7 +87,7 @@
       "area": "Industrial Engineering",
       "studyType": "BSc.",
       "startDate": "2017",
-      "endDate": "2021",
+      "endDate": "2021"
     }
   ],
   "awards": [
