@@ -12,11 +12,27 @@
     {
       "name": "Ludwigs-Maximilians-Universität",
       "location": "Munich, Germany",
-      "studyType": "PhD",
+      "position": "PhD candidate",
       "startDate": "2024",
       "endDate": "ongoing",
       "summary": "PhD candidate in the group mathematical foundations of artificial intelligence",
       "highlights": ["Physical law learning", "Uncertainty quantification"]
+    },
+    {
+      "name": "Institute of Statistics, Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "position": "Research assistant",
+      "startDate": "2022",
+      "endDate": "2024",
+      "highlights": ["Uncertainty quantification", "Probabilistic weather forecasting"]
+    },
+    {
+      "name": "anacision GmbH",
+      "location": "Karlsruhe, Germany",
+      "position": "Data Science Intern",
+      "startDate": "2019",
+      "endDate": "2020",
+      "highlights": ["Forecasting", "Big data integration"]
     },
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -60,7 +76,7 @@
     {
       "institution": "Karlsruhe Institute of Technology",
       "location": "Karlsruhe, Germany",
-      "area": "Industrial engineering",
+      "area": "Industrial Engineering",
       "studyType": "BSc.",
       "startDate": "2017",
       "endDate": "2021",
