@@ -17,7 +17,7 @@
   abstract = {Recent methods in modeling spatial extreme events have focused on utilizing parametric max-stable processes and their underlying dependence structure. In this work, we provide a unified approach for analyzing spatial extremes with little available data by estimating the distribution of model parameters or the spatial dependence directly. By employing recent developments in generative neural networks we predict a full sample-based distribution, allowing for direct assessment of uncertainty regarding model parameters or other parameter dependent functionals. We validate our method by fitting several simulated max-stable processes, showing a high accuracy of the approach, regarding parameter estimation, as well as uncertainty quantification. Additional robustness checks highlight the generalization and extrapolation capabilities of the model, while an application to precipitation extremes across Western Germany demonstrates the usability of our approach in real-world scenarios.},
   keywords = {Computer Science - Machine Learning,Statistics - Machine Learning},
   code = {https://github.com/cbuelt/spatio-temporal-extremes},
-  preview = {spatio_temporal_extremes.pdf},
+  preview = {spatio_temporal_extremes.jpg},
 }
 
 @article{bulteMultivariateTimeSeries2023,
@@ -41,7 +41,7 @@
 }
 
 @misc{bulteUncertaintyQuantificationDatadriven2024,
-  abbr = {Energy & AI},
+  abbr = {arXiv},
   bibtex_show = {true},
   title = {Uncertainty Quantification for Data-Driven Weather Models},
   author = {Bülte, Christopher and Horat, Nina and Quinting, Julian and Lerch, Sebastian},
@@ -58,6 +58,42 @@
   pubstate = {prepublished},
   keywords = {Physics - Atmospheric and Oceanic Physics,Statistics - Applications,Statistics - Machine Learning},
   code = {https://github.com/cbuelt/dduq},  
-  preview = {data_driven_uq.pdf},
+  preview = {data_driven_uq.jpg},
 }
+
+
+
+@misc{yilmaz2021applying,
+  abbr = {ICML 2021},
+  bibtex_show = {true},
+  title={Applying transformer to imputation of multivariate energy time series data},
+  author={Yilmaz, Hasan Ümitcan and Kleinebrahm, Max and Bülte, Christopher and Gómez-Romero, Juan},
+  booktitle={ICML 2021 Workshop on Tackling Climate Change with Machine Learning},
+  url={https://www.climatechange.ai/papers/icml2021/89},
+  html={https://www.climatechange.ai/papers/icml2021/89},
+  slides = {https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/icml2021/89/slides.pdf},
+  year={2021},
+  abstract = {To reduce the greenhouse gas emissions from elec-
+tricity production, it is necessary to switch to an
+energy system based on renewable energy sources
+(RES). However, intermittent electricity genera-
+tion from RES poses challenges for energy sys-
+tems. The primary input for data-driven solutions
+is data on electricity generation from RES, which
+usually contain many missing values. This pro-
+posal studies the use of attention-based algorithms
+to impute missing values of electricity production,
+electricity demand and electricity prices. Since at-
+tention mechanisms allow us to take into account
+dependencies between time series across multiple
+dimensions efficiently, our approach goes beyond
+classic statistical methods and incorporates many
+related variables, such as electricity price, demand
+and production by other sources. Our preliminary
+results show that while transformers can come at
+higher computational costs, they are more precise
+than classical imputation methods.},
+preview = {transformer_imputing_conference.png},
+}
+
 
