@@ -35,18 +35,6 @@
       "highlights": ["Forecasting", "Big data integration"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "EduRef - Education for Regfugees e.V.",
-      "location": "Karlsruhe, Germany",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2018",
-      "endDate": "2019",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
       {
       "institution": "Karlsruhe Institute of Technology",
@@ -95,8 +83,17 @@
     },
     {
       "title": "Scholarship Deutschlandstipendium",
-      "date": "2019-2020",
+      "date": "2019",
       "awarder": "Karlsruhe Institute of Technology, Germany"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "EduRef - Education for Regfugees e.V.",
+      "location": "Karlsruhe, Germany",
+      "position": "Volunteer",
+      "startDate": "2018",
+      "endDate": "2019"
     }
   ],
   "certificates": [
