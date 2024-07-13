@@ -10,6 +10,6 @@ importance: 2
 
 <h2 class="year">{{2023}}</h2>
 
-- 2023/09/27: [Poster](https://github.com/cbuelt/cbuelt.github.io/blob/master/assets/img/publication_preview/data_driven_uq.jpg) presentation on *Probabilistic data-driven weather forecasting* (Best poster award) @ [MathSeeSymposium](https://symposium.mathsee.kit.edu) (**Karlsruhe Institute of Technology, Germany**).
+- 2023/09/27: [Poster](https://github.com/cbuelt/cbuelt.github.io/blob/master/assets/pdf/posters/poster_mathsee.pdf) presentation on *Probabilistic data-driven weather forecasting* (Best poster award) @ [MathSeeSymposium](https://symposium.mathsee.kit.edu) (**Karlsruhe Institute of Technology, Germany**).
 
 
