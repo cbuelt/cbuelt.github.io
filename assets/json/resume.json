@@ -77,20 +77,20 @@
       "releaseDate": "2024",
       "url": "http://arxiv.org/abs/2407.08668"},
     {
-      "name": "Uncertainty Quantification for Data-Driven Weather Models}",
-      "author": "Christopher Bülte, Nina Horat, Julian Quinting, Sebastian Lerch",
+      "name": "Uncertainty Quantification for Data-Driven Weather Models",
+      "author": "<u>Christopher Bülte</u>, Nina Horat, Julian Quinting, Sebastian Lerch",
       "publisher": "arXiv preprint",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2403.13458"},
     {
       "name": "Multivariate Time Series Imputation for Energy Data Using Neural Networks",
-      "author": "Christopher Bülte, Max Kleinebrahm, Hasan Ümitcan Yilmaz, Juan Gómez-Romero",
+      "author": "<u>Christopher Bülte</u>, Max Kleinebrahm, Hasan Ümitcan Yilmaz, Juan Gómez-Romero",
       "publisher": "Energy and AI",
       "releaseDate": "2023",
       "url": "https://www.sciencedirect.com/science/article/pii/S2666546823000113"},
     {
       "name": "Applying transformer to imputation of multivariate energy time series data",
-      "author": "Hasan Ümitcan Yilmaz, Max Kleinebrahm, Christopher Bülte, Juan Gómez-Romero",
+      "author": "Hasan Ümitcan Yilmaz, Max Kleinebrahm, <u>Christopher Bülte</u>, Juan Gómez-Romero",
       "publisher": "ICML 2021 Workshop on Tackling Climate Change with Machine Learning",
       "releaseDate": "2021",
       "url": "https://www.climatechange.ai/papers/icml2021/89"}
