@@ -142,12 +142,11 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
+      "name": "Estimation of Spatio-Temporal Extremes via Generative Neural Networks",
+      "author": "Bülte, Christopher and Leimenstoll, Lisa and Schienle, Melanie",
+      "publisher": "arXiv preprint",
+      "releaseDate": "2024",
+      "url": "http://arxiv.org/abs/2407.08668"},
     {
       "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
       "publisher": "Annalen der Physik",
