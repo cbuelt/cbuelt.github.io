@@ -37,12 +37,12 @@
   ],
   "education": [
       {
-      "institution": "Karlsruhe Institute of Technology",
-      "location": "Karlsruhe, Germany",
-      "area": "Economathematics",
-      "studyType": "Master of Science",
+      "institution": "ITMO University",
+      "location": "St. Petersburg, Russia",
+      "area": "Big data and Machine Learning",
+      "studyType": "Exchange semester",
       "startDate": "2021",
-      "endDate": "2023"
+      "endDate": "2022"
     },
     {
       "institution": "Karlsruhe Institute of Technology",
@@ -53,12 +53,12 @@
       "endDate": "2023"
     },
     {
-      "institution": "ITMO University",
-      "location": "St. Petersburg, Russia",
-      "area": "Big data and Machine Learning",
-      "studyType": "Exchange semester",
+      "institution": "Karlsruhe Institute of Technology",
+      "location": "Karlsruhe, Germany",
+      "area": "Economathematics",
+      "studyType": "Master of Science",
       "startDate": "2021",
-      "endDate": "2022"
+      "endDate": "2023"
     },
     {
       "institution": "Karlsruhe Institute of Technology",
