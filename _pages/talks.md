@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description: Seminar talks and conference presentations.
 years: 
 nav: true
