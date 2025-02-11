@@ -28,4 +28,4 @@ My research interests:
 
 Before the start of my PhD I obtained a Bachelor's degree in Industrial Engineering and a Masters's degree in Mathematics from Karlsruhe Institute of Technology.
 
-**If you have any questions about my research or want to collaborate feel free to contact me anytime**.
+**If you have any questions regarding my research or want to collaborate feel free to contact me anytime**.
