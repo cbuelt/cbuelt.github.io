@@ -4,6 +4,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - cbuelt/spatio-temporal-extremes
   - cbuelt/dduq
   - cbuelt/transformer-imputing
+  - cbuelt/pfno
+  - cbuelt/spatio-temporal-extremes
+
