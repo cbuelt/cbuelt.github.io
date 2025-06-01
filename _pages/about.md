@@ -1,34 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+
+[//]: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+*PhD candidate, LMU Munich*
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD candidate at the Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence at LMU Munich under the supervision of [Prof. Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html). Furthermore, I am an associated PhD at the [Konrad Zuse School of Excellence in Reliable AI (relAI)](https://zuseschoolrelai.de/people/scientists/christopher-bulte/) and the [Munich Center for Machine Learning (MCML)](https://mcml.ai/team/juniors/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**My research interests:**
+- Uncertainty quantification
+- Probabilistic predictions
+- Physics-informed machine learning
+
+My research revolves around uncertainty quantification, probabilistic modeling, and its applications in the natural sciences. I have a strong interest in the theoretical foundations of such methods, as well as in their practical applications. Furthermore, I am interested in developing novel probabilistic or uncertainty quantification-related methods for neural networks. Applications of the developed methods include [meteorology](https://journals.ametsoc.org/view/journals/aies/aop/AIES-D-24-0049.1/AIES-D-24-0049.1.xml), [dynamical systems](https://openreview.net/forum?id=gangoPXSRw), [energy systems](https://www.sciencedirect.com/science/article/pii/S2666546823000113) or quantum physics.
+
+
+Before the start of my PhD I obtained a Bachelor's degree in Industrial Engineering and a Masters's degree in Mathematics from Karlsruhe Institute of Technology.
+
+**If you have any questions regarding my research or want to collaborate feel free to contact me anytime**.

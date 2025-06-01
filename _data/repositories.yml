@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cbuelt
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - cbuelt/dduq
+  - cbuelt/transformer-imputing
+  - cbuelt/pfno
+  - cbuelt/spatio-temporal-extremes
+
