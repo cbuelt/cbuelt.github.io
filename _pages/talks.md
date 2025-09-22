@@ -10,6 +10,7 @@ importance: 2
 
 <h2 class="year">{{2025}}</h2>
 
+- 2025/09: Contributed [talk](https://indico.ph.tum.de/event/7932/contributions/10789/attachments/6958/9662/B%C3%BClte_Slides.pdf) on *Probabilistic neural operators* at **[MIAPbP Workshop](https://www.munich-iapbp.de/activities/activities-2025/machine-learning): Build Big or Build Smart: Examing Scale and Domain Knowledge in Machine Learning for Fundamental Physics (Munich)**.
 - 2025/04: Poster presentation on *Graph Neural Networks for Enhancing Ensemble Forecasts of Extreme Rainfall* at **ICLR 2025 Workshop on Tackling Climate Change with Machine Learning (Singapore)**.
 
 <h2 class="year">{{2024}}</h2>
