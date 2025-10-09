@@ -152,6 +152,10 @@ collections:
   projects:
     output: true
 
+announcements:
+  enabled: true
+  limit: 5        # optional
+  scrollable: false
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
