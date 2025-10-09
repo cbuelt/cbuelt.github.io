@@ -10,9 +10,14 @@ profile:
   image: prof_pic.jpg
   more_info: >
 
-news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true
+  limit:         # optional
+  scrollable: true
+
 ---
 
 *PhD candidate, LMU Munich*
