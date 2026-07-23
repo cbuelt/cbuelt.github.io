@@ -10,7 +10,7 @@ importance: 2
 
 <h2 class="year">{{2026}}</h2>
 
-- 2026/07: Invited talk on *Probabilistic neural operators* at **[WCCM ECCMOAS](https://wccm-eccomas2026.org/) 2026 (Munich, Germany)**
+- 2026/07: Invited talk on *Probabilistic neural operators* at **[WCCM ECCOMAS](https://wccm-eccomas2026.org/) 2026 (Munich, Germany)**
 
 <h2 class="year">{{2025}}</h2>
 
