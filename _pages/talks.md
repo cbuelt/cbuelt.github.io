@@ -8,6 +8,10 @@ nav: true
 importance: 2
 ---
 
+<h2 class="year">{{2026}}</h2>
+
+- 2026/07: Invited talk on *Probabilistic neural operators* at **[WCCM ECCMOAS](https://wccm-eccomas2026.org/) 2026 (Munich, Germany)**
+
 <h2 class="year">{{2025}}</h2>
 
 - 2025/12: Oral presentation on *A Formal Assessment of Uncertainty Measures in Regression* at **[EIML Workshop](https://sites.google.com/view/eiml-eurips2025/home) at EurIPS 2025 (Kopenhagen, Denmark)**
