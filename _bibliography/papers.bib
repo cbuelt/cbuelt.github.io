@@ -15,18 +15,15 @@
 
 
 @article{bülte2025uncertaintyquantificationregressionunified,
-      abbr = {arXiv},
+      abbr = {UAI 2026},
       bibtex_show = {true},
       title={Uncertainty Quantification for Regression: A Unified Framework based on kernel scores}, 
       author={Christopher Bülte and Yusuf Sale and Gitta Kutyniok and Eyke Hüllermeier},
-      journal = {arXiv preprint arXiv:2510.25599},
-      year={2025},
-      eprint={2510.25599},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      html={https://arxiv.org/abs/2510.25599}, 
-      url={https://arxiv.org/abs/2510.25599}, 
-      abstract  = {Regression tasks, notably in safety-critical domains, require proper uncertainty quantification, yet the literature remains largely classification-focused. In this light, we introduce a family of measures for total, aleatoric, and epistemic uncertainty based on proper scoring rules, with a particular emphasis on kernel scores. The framework unifies several well-known measures and provides a principled recipe for designing new ones whose behavior, such as tail sensitivity, robustness, and out-of-distribution responsiveness, is governed by the choice of kernel. We prove explicit correspondences between kernel-score characteristics and downstream behavior, yielding concrete design guidelines for task-specific measures. Extensive experiments demonstrate that these measures are effective in downstream tasks and reveal clear trade-offs among instantiations, including robustness and out-of-distribution detection performance.},
+      journal = {Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence},
+      year={2026},
+      html={https://proceedings.mlr.press/v337/bulte26a.html},
+      url={https://proceedings.mlr.press/v337/bulte26a.html},
+      abstract = 	 {Regression tasks, notably in safety-critical domains, require reliable uncertainty quantification, yet the literature remains largely classification-focused. To address this, we introduce a family of measures for total, aleatoric, and epistemic uncertainty in multivariate regression based on strictly proper kernel scores. The framework provides a principled recipe for designing new uncertainty measures whose behavior, such as tail sensitivity or out-of-distribution responsiveness, is governed by the choice of the underlying kernel, while also encompassing existing measures under a joint analysis. We prove explicit correspondences between properties of the kernel and behavior of resulting uncertainty measures, yielding concrete design guidelines for practitioners. Extensive experiments across structured regression tasks, including spatial and functional domains, demonstrate effectiveness on downstream tasks such as out-of-distribution detection and active learning, and reveal that different kernel choices lead to distinct trade-offs, offering practitioners guidance for task-specific selection.}
       code = {https://github.com/cbuelt/kernel_entropy_uq},      
       preview = {ensemble_mmd.png},
 }
@@ -49,20 +46,18 @@
 }
 
 @article{bulte_axiomatic,
-      abbr = {arXiv},
+      abbr = {UAI 2026},
       bibtex_show = {true},
       title={An Axiomatic Assessment of Entropy- and Variance-based Uncertainty Quantification in Regression}, 
       author={Christopher Bülte and Yusuf Sale and Timo Löhr and Paul Hofman and Gitta Kutyniok and Eyke Hüllermeier},
-      journal = {arXiv preprint arXiv:2504.18433},
-      year={2025},
-      eprint={2504.18433},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      html={https://arxiv.org/abs/2504.18433}, 
-      url={https://arxiv.org/abs/2504.18433}, 
-      abstract = {Uncertainty quantification (UQ) is crucial in machine learning, yet most (axiomatic) studies of uncertainty measures focus on classification, leaving a gap in regression settings with limited formal justification and evaluations. In this work, we introduce a set of axioms to rigorously assess measures of aleatoric, epistemic, and total uncertainty in supervised regression. By utilizing a predictive exponential family, we can generalize commonly used approaches for uncertainty representation and corresponding uncertainty measures. More specifically, we analyze the widely used entropy- and variance-based measures regarding limitations and challenges. Our findings provide a principled foundation for UQ in regression, offering theoretical insights and practical guidelines for reliable uncertainty assessment.},
+      journal = {Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence},
+      year={2026},
+      html={https://proceedings.mlr.press/v337/bulte26b.html}, 
+      url={https://proceedings.mlr.press/v337/bulte26b.html}, 
+      abstract = 	 {Uncertainty quantification is crucial in machine learning, yet most (axiomatic) studies of uncertainty measures focus on classification, leaving a gap in regression settings with limited formal justification and evaluations. In this work, we provide a formal way of representing uncertainty in continuous space, using a general parametric formulation, allowing for tractable analysis and evaluation of uncertainty measures. Within this framework, we propose a set of axioms that enable rigorous assessment of total, aleatoric, and epistemic uncertainty measures. Together, this allows for a theoretical examination of uncertainty measures and their corresponding properties. As a specific example, we compare the widely used entropy- and variance-based measures with respect to established predictive models and analyze their limitations and challenges in uncertainty quantification. Our work provides a principled way to understand and develop uncertainty measures in supervised regression, offering theoretical insights and practical guidelines for reliable uncertainty assessment.}
       preview = {axiomatic_assessment.png},
 }
+
 
 @article{buelte_raincast,
   abbr = {ICLR 2025},
