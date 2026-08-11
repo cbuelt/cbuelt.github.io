@@ -15,6 +15,7 @@
 
 
 @article{bülte2025uncertaintyquantificationregressionunified,
+      selected = {true},
       abbr = {UAI 2026},
       bibtex_show = {true},
       title={Uncertainty Quantification for Regression: A Unified Framework based on kernel scores}, 
@@ -23,7 +24,7 @@
       year={2026},
       html={https://proceedings.mlr.press/v337/bulte26a.html},
       url={https://proceedings.mlr.press/v337/bulte26a.html},
-      abstract = 	 {Regression tasks, notably in safety-critical domains, require reliable uncertainty quantification, yet the literature remains largely classification-focused. To address this, we introduce a family of measures for total, aleatoric, and epistemic uncertainty in multivariate regression based on strictly proper kernel scores. The framework provides a principled recipe for designing new uncertainty measures whose behavior, such as tail sensitivity or out-of-distribution responsiveness, is governed by the choice of the underlying kernel, while also encompassing existing measures under a joint analysis. We prove explicit correspondences between properties of the kernel and behavior of resulting uncertainty measures, yielding concrete design guidelines for practitioners. Extensive experiments across structured regression tasks, including spatial and functional domains, demonstrate effectiveness on downstream tasks such as out-of-distribution detection and active learning, and reveal that different kernel choices lead to distinct trade-offs, offering practitioners guidance for task-specific selection.}
+      abstract = 	 {Regression tasks, notably in safety-critical domains, require reliable uncertainty quantification, yet the literature remains largely classification-focused. To address this, we introduce a family of measures for total, aleatoric, and epistemic uncertainty in multivariate regression based on strictly proper kernel scores. The framework provides a principled recipe for designing new uncertainty measures whose behavior, such as tail sensitivity or out-of-distribution responsiveness, is governed by the choice of the underlying kernel, while also encompassing existing measures under a joint analysis. We prove explicit correspondences between properties of the kernel and behavior of resulting uncertainty measures, yielding concrete design guidelines for practitioners. Extensive experiments across structured regression tasks, including spatial and functional domains, demonstrate effectiveness on downstream tasks such as out-of-distribution detection and active learning, and reveal that different kernel choices lead to distinct trade-offs, offering practitioners guidance for task-specific selection.},
       code = {https://github.com/cbuelt/kernel_entropy_uq},      
       preview = {ensemble_mmd.png},
 }
@@ -54,7 +55,7 @@
       year={2026},
       html={https://proceedings.mlr.press/v337/bulte26b.html}, 
       url={https://proceedings.mlr.press/v337/bulte26b.html}, 
-      abstract = 	 {Uncertainty quantification is crucial in machine learning, yet most (axiomatic) studies of uncertainty measures focus on classification, leaving a gap in regression settings with limited formal justification and evaluations. In this work, we provide a formal way of representing uncertainty in continuous space, using a general parametric formulation, allowing for tractable analysis and evaluation of uncertainty measures. Within this framework, we propose a set of axioms that enable rigorous assessment of total, aleatoric, and epistemic uncertainty measures. Together, this allows for a theoretical examination of uncertainty measures and their corresponding properties. As a specific example, we compare the widely used entropy- and variance-based measures with respect to established predictive models and analyze their limitations and challenges in uncertainty quantification. Our work provides a principled way to understand and develop uncertainty measures in supervised regression, offering theoretical insights and practical guidelines for reliable uncertainty assessment.}
+      abstract = 	 {Uncertainty quantification is crucial in machine learning, yet most (axiomatic) studies of uncertainty measures focus on classification, leaving a gap in regression settings with limited formal justification and evaluations. In this work, we provide a formal way of representing uncertainty in continuous space, using a general parametric formulation, allowing for tractable analysis and evaluation of uncertainty measures. Within this framework, we propose a set of axioms that enable rigorous assessment of total, aleatoric, and epistemic uncertainty measures. Together, this allows for a theoretical examination of uncertainty measures and their corresponding properties. As a specific example, we compare the widely used entropy- and variance-based measures with respect to established predictive models and analyze their limitations and challenges in uncertainty quantification. Our work provides a principled way to understand and develop uncertainty measures in supervised regression, offering theoretical insights and practical guidelines for reliable uncertainty assessment.},
       preview = {axiomatic_assessment.png},
 }
 
@@ -139,7 +140,6 @@
 }
 
 @article{bulteMultivariateTimeSeries2023,
-  selected = {true},
   abbr = {Energy & AI},
   bibtex_show = {true},
   title = {Multivariate Time Series Imputation for Energy Data Using Neural Networks},
