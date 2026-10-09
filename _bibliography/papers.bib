@@ -1,6 +1,22 @@
 ---
 ---
 
+@misc{bülte2026scorespectralcorrelationestimation,
+  abbr = {arXiv},
+  bibtex_show = {true},
+  title={SCORE: Spectral Correlation Estimation for Multivariate Gaussians}, 
+  author={Christopher Bülte and Emil Partow and Astha Gupta and Pascal Esser and Gitta Kutyniok},
+  year={2026},
+  eprint={2610.12096},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG},
+  url={https://arxiv.org/abs/2610.12096}, 
+  html={https://arxiv.org/abs/2610.12096}, 
+  abstract = {Neural network-based predictive modeling with high-dimensional structured Gaussian targets requires an efficient and numerically stable, yet expressive approximation of the covariance matrix. We propose SCORE: a scalable framework, combining scoring rule training with an expressive covariance approximation learned in spectral space. For d-dimensional data, the learning task is decomposed into learning the marginal distributions and learning a structured correlation matrix, which enables dense dependencies with linear storage and O(dlogd) cost. We utilize the closed form Gaussian kernel score for training, which remains defined even for degenerate covariances and admits bounded gradients during optimization. We characterize kernel scores under invertible transforms and prove exact invariance under unitary transforms. At population level, our two-level objective recovers the true marginals and projects the target correlation onto the representable class; finite-sample PAC bounds show that the errors of the two stages enter additively. We evaluate our model on a variety of tasks with a commonly assumed Gaussian domain: Time-series forecasting, monocular depth estimation, and spatial weather prediction, showing improved performance at lower computational cost.},
+  code = {https://github.com/cbuelt/score},      
+  preview = {score.jpg},
+}
+
 @article{uq_dynamical_systems,
   abbr = {ICML 2026},
   bibtex_show = {true},
@@ -9,7 +25,7 @@
   journal={ICML Workshop on Epistemic Intelligence in Machine Learning},
   html={https://arxiv.org/abs/2606.11988}, 
   year={2026},
-  abstract = {he distinction between aleatoric and epistemic uncertainty has received considerable attention in machine learning research, mainly in the context of supervised learning but also in other settings such as generative modeling. In this paper, we offer a machine learning perspective on uncertainty modeling for dynamical systems, which has been studied much less so far. In particular, we ask: what uncertainties do we need for dynamical systems? We discuss sources of uncertainty, clarify their nature (aleatoric or epistemic), and consider how the objectives of representing and quantifying uncertainty vary across different tasks.},
+  abstract = {The distinction between aleatoric and epistemic uncertainty has received considerable attention in machine learning research, mainly in the context of supervised learning but also in other settings such as generative modeling. In this paper, we offer a machine learning perspective on uncertainty modeling for dynamical systems, which has been studied much less so far. In particular, we ask: what uncertainties do we need for dynamical systems? We discuss sources of uncertainty, clarify their nature (aleatoric or epistemic), and consider how the objectives of representing and quantifying uncertainty vary across different tasks.},
   preview = {uq_dynamical_systems.png},
 }
 
